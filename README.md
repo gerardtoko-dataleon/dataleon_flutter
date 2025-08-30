@@ -1,5 +1,8 @@
 
+
 # dataleon_flutter
+
+[![pub package](https://img.shields.io/pub/v/dataleon_flutter.svg)](https://pub.dev/packages/dataleon_flutter)
 
 > Flutter SDK for Dataleon verification integration via WebView.
 
